@@ -2,6 +2,10 @@
 
 Here's a simple Ansible Playbook to create a basic MariaDB deployment on a remote amazon linux server.
 
+[![Build](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+## Description
+
 Playbooks are one of the core features of Ansible and tell Ansible what to execute. They are like a to-do list for Ansible that contains a list of tasks.
 Playbooks contain the steps which the user wants to execute on a particular machine.
 
@@ -103,3 +107,10 @@ PLAY RECAP *********************************************************************
 172.31.14.171              : ok=8    changed=7    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0
 playbook: mariadb.yml
 ```
+
+#### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:jomyambattil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jomygeorge11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.instagram.com/therealjomy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br />
